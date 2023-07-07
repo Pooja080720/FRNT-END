@@ -1,0 +1,67 @@
+body {
+    background: url(images.jpeg);
+    background-size: cover;
+    background-position: 100%;
+}
+
+h3 {
+    text-align: center;
+    font-family: cursive;
+    font-size: 50px;
+}
+
+.A {
+    border: 2px solid rgb(0, 0, 0);
+    padding: 2rem;
+    margin: 2rem;
+    background-color: aqua;
+    text-align: justify;
+}
+
+.box {
+    background-color: coral;
+    width: 300px;
+    height: 300px;
+}
+
+.C {
+    border: 2px solid black;
+    padding: 2rem;
+    margin: 2rem;
+    background-color: bisque;
+    text-align: justify;
+}
+
+.square {
+    background-color: rgb(205, 80, 255);
+    width: 400px;
+    height: 300px;
+}
+
+.I {
+    border: 2px solid black;
+    padding: 2rem;
+    margin: 2rem;
+    background-color: rgb(18, 234, 21);
+    text-align: justify;
+}
+
+.circle {
+    width: 400px;
+    height: 200px;
+    background-color: red;
+}
+
+.P {
+    border: 2px solid black;
+    padding: 2rem;
+    margin: 2rem;
+    background-color: rgb(238, 226, 13);
+    text-align: justify;
+}
+
+.triangle {
+    width: 300px;
+    height: 400px;
+    background-color: blue;
+}

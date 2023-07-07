@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.navbar {
+    background-color: #ffffff;
+    width: 100%;
+    position: sticky;
+    top: 5%;
+}
+
+.nav li {
+    display: inline-block;
+}
+
+.list .link{
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    border-right: 1.2px solid black;
+    padding: 1rem 3rem;
+}
+
+.bar {
+    border-right: 0px solid black;
+}
+
+.list .link:hover{
+    color: black;
+    background-color: rgb(235, 30, 30);
+    text-decoration: red;
+    z-index: 10px;
+    cursor: pointer;
+}
+
+.box {
+    width: 30px;
+    height: 280px;
+    background-color: #000000;
+    margin-left: 10px;
+    position: fixed;
+    top: 28%;
+}
+

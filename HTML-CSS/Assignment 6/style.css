@@ -1,0 +1,178 @@
+body {
+    background: url(PSYCH\ 5.jpg);
+    background-size: cover;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    background-color: aqua;
+    width: 1000px;
+    height: 250px;
+    margin-left: 6rem;
+    margin-top: 3rem;
+    border: 20px solid black;
+}
+
+h2 {
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 3rem;
+}
+
+#a {
+    width: 160px;
+    height: 145px;
+    background-color: bisque;
+    text-align: center;
+    font-size: 50px;
+    padding: 50px 0px 0px 0px;
+    margin: 1rem;
+    border: 10px solid coral;
+    border-radius: 10px;
+}
+
+#b {
+    width: 130px;
+    height: 130px;
+    background-color: bisque;
+    text-align: center;
+    font-size: 50px;
+    padding: 50px 0px 0px 0px;
+    margin: 1rem;
+    border: 20px solid blue;
+    border-radius: 20px;
+}
+
+#c {
+    width: 100px;
+    height: 120px;
+    background-color: bisque;
+    text-align: center;
+    font-size: 50px;
+    padding: 50px 0px 0px 0px;
+    margin: 1rem;
+    border: 7px solid yellow;
+    border-radius: 40px;
+}
+
+#d {
+    width: 160px;
+    height: 140px;
+    background-color: bisque;
+    text-align: center;
+    font-size: 50px;
+    padding: 50px 0px 0px 0px;
+    margin: 1rem;
+    border: 5px solid green;
+    border-radius: 30px;
+}
+
+#f {
+    width: 100px;
+    height: 155px;
+    background-color: bisque;
+    text-align: center;
+    font-size: 50px;
+    padding: 50px 0px 0px 0px;
+    margin: 1rem;
+    border: 10px solid purple;
+    border-radius: 500px;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    width: 250px;
+    height: 1000px;
+    margin-left: 6rem;
+    margin-top: 3rem;
+    border: 10px solid black;
+}
+
+#box1 {
+    width: 160px;
+    height: 145px;
+    background-color: bisque;
+    text-align: center;
+    font-size: 50px;
+    padding: 50px 0px 0px 0px;
+    margin: 1rem;
+    border: 10px solid coral;
+    border-radius: 10px;
+}
+
+#box2 {
+    width: 130px;
+    height: 130px;
+    background-color: bisque;
+    text-align: center;
+    font-size: 50px;
+    padding: 50px 0px 0px 0px;
+    margin: 1rem;
+    border: 20px solid blue;
+    border-radius: 20px;
+}
+
+#box3 {
+    width: 100px;
+    height: 120px;
+    background-color: bisque;
+    text-align: center;
+    font-size: 50px;
+    padding: 50px 0px 0px 0px;
+    margin: 1rem;
+    border: 7px solid yellow;
+    border-radius: 40px;
+}
+
+#box4 {
+    width: 160px;
+    height: 140px;
+    background-color: bisque;
+    text-align: center;
+    font-size: 50px;
+    padding: 50px 0px 0px 0px;
+    margin: 1rem;
+    border: 5px solid green;
+    border-radius: 30px;
+}
+
+#box5 {
+    width: 100px;
+    height: 155px;
+    background-color: bisque;
+    text-align: center;
+    font-size: 50px;
+    padding: 50px 0px 0px 0px;
+    margin: 1rem;
+    border: 10px solid purple;
+    border-radius: 500px;
+}
+
+.customize {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color: rgb(233, 247, 47);
+    width: 1100px;
+    height: 500px;
+    margin-left: 6rem;
+    margin-top: 3rem;
+    border: 10px solid black;
+}
+
+.box {
+    width: 160px;
+    height: 145px;
+    background-color: rgb(255, 72, 0);
+    text-align: center;
+    font-size: 50px;
+    padding: 50px 0px 0px 0px;
+    margin: 1rem;
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
